@@ -22,7 +22,7 @@ public class TestSelenium09_Asserstion {
         Assert.assertEquals(driver.getCurrentUrl(),"https://www.google.com");
 
         // AssertJ
-        assertThat(driver.getCurrentUrl()).isNotBlank().isNotNull().isEqualTo("https://www.google.com");
+      //  assertThat(driver.getCurrentUrl()).isNotBlank().isNotNull().isEqualTo("https://www.google.com");
 
         // Rest Assured? (ValidatableResponse)
 

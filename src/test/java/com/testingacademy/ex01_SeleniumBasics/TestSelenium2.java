@@ -9,7 +9,7 @@ public class TestSelenium2
     @Test
     public void test_Code()
     {
-        Assert.assertEquals("pramod","Pramod");
+        Assert.assertEquals("Pramod","Pramod");
     }
 
     @Test

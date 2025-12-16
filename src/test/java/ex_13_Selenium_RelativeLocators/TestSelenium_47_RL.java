@@ -1,4 +1,4 @@
-package ex_13_RelativeLocators;
+package ex_13_Selenium_RelativeLocators;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
